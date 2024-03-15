@@ -1,28 +1,28 @@
-// function greet(name) {
-//     console.log(`Hello, ${name}!`);
-// }
-// greet('John');
-// greet('Jane');
+function greet(name) {
+    console.log(`Hello, ${name}!`);
+}
+greet('John');
+greet('Jane');
 
-// function sum(a, b){
-//     return a + b;
-// }
+function sum(a, b){
+    return a + b;
+}
 
-// const add = sum(3, 4);
-// console.log(add)
-// // console.log(sum(3, 4));
-// // console.log(sum(2, 3));
+const add = sum(3, 4);
+console.log(add)
+// console.log(sum(3, 4));
+// console.log(sum(2, 3));
 
 
-// const multiply = (num1, num2) => num1 * num2;
+const multiply = (num1, num2) => num1 * num2;
 
-// console.log(multiply(4, 5));
+console.log(multiply(4, 5));
 
-// let x = 3;
-// let y = 4;
+let x = 3;
+let y = 4;
 
-// let z = x + y;
-// console.log(z);
+let z = x + y;
+console.log(z);
 
 const evenNumbers = [];
 

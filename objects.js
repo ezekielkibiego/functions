@@ -137,12 +137,12 @@
 
 // console.log(cars[1].model);
 
-// const cars =[
-//     {make:'audi', type:'Q5', year:2020, color:'grey'},
-//     {make:'mercedes', type:'c200', year:2017, color:'white'},
+const cars =[
+    {make:'audi', type:'Q5', year:2020, color:'grey'},
+    {make:'mercedes', type:'c200', year:2017, color:'white'},
 
-//  ]
-// console.log(cars[1].make);
+ ]
+console.log(cars[1].make);
 
 
 
